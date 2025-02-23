@@ -1,7 +1,7 @@
 # Dimensionality Reduction Analysis Using SVD/PCA
 
 ## Overview
-This project demonstrates the application of **Singular Value Decomposition (SVD)** and **Principal Component Analysis (PCA)** to analyze and reduce the dimensionality of the Iris dataset. Key aspects include variance analysis, subspace projection, and reconstruction error evaluation across different dimensions.
+This project demonstrates the application of **Singular Value Decomposition (SVD)** and **Principal Component Analysis (PCA)** to analyze and reduce the dimensionality of the well-known Iris dataset. Key aspects include variance analysis, subspace projection, and reconstruction error evaluation across different dimensions.
 
 ## Key Features
 1. **Structured Data Splitting**  
